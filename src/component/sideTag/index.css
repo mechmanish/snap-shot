@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.sideRibben{
+    position: relative;
+}
+
+.topRight{
+    display: block;
+    position: absolute;
+    top: -4rem;
+    right: 0;
+    background: #0000;
+    color: white;
+    transform: rotate(45deg);
+}
+
+.topRight a{
+    text-decoration: none;
+}

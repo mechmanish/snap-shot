@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.inputSection{
+    text-align: center;
+    margin-top: 8rem;
+}
+
+.navBar{
+    margin: 2rem 0;
+}
+
+.navBar ul{
+    display: flex;
+    justify-content: center;
+}
+
+.navBar ul li{
+    list-style: none;
+    margin: auto 1rem;
+}

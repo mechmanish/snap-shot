@@ -1,0 +1,13 @@
+.searchPic{
+    text-align: center;
+}
+
+.picArea ul{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;  
+}
+
+.onePicArea li{
+    list-style: none;
+}
